@@ -34,5 +34,7 @@ O objetivo deste projeto foi consolidar conceitos básicos e intermediários de 
 ## 🚀 Como Executar
 
 1️⃣ Clone o repositório:
+
 ```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+git clone https://github.com/coutzera/Santander-2025---Back-End-com-Python.git
+```
