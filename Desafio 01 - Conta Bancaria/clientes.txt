@@ -1,0 +1,64 @@
+[
+    {
+        "cpf": "12332940758",
+        "nome": "Hudson Coutinho",
+        "nascimento": "21/09/1989",
+        "endereco": "Rua Coroados, 75 apt 701 - Jabour - Rio de Janeiro/RJ",
+        "senha": "210989",
+        "contas": [
+            {
+                "agencia": "0001",
+                "numero": 1,
+                "saldo": 500.0,
+                "numero_saques": 0,
+                "ativa": true
+            },
+            {
+                "agencia": "0001",
+                "numero": 4,
+                "saldo": 0.0,
+                "numero_saques": 0,
+                "ativa": false
+            },
+            {
+                "agencia": "0001",
+                "numero": 5,
+                "saldo": 300.0,
+                "numero_saques": 0,
+                "ativa": true
+            }
+        ]
+    },
+    {
+        "cpf": "12345678901",
+        "nome": "Rebeca Coutinho",
+        "nascimento": "11/05/1991",
+        "endereco": "Rua Coroados, 75 apt 701 - Jabour - Rio de Janeiro/RJ",
+        "senha": "110591",
+        "contas": [
+            {
+                "agencia": "0001",
+                "numero": 2,
+                "saldo": 500.0,
+                "numero_saques": 0,
+                "ativa": true
+            }
+        ]
+    },
+    {
+        "cpf": "12345678902",
+        "nome": "Benicio Coutinho",
+        "nascimento": "03/06/2015",
+        "endereco": "Rua Coroados, 75 apt 701 - Jabour - Rio de Janeiro/RJ",
+        "senha": "03062015",
+        "contas": [
+            {
+                "agencia": "0001",
+                "numero": 3,
+                "saldo": 750.0,
+                "numero_saques": 0,
+                "ativa": true
+            }
+        ]
+    }
+]

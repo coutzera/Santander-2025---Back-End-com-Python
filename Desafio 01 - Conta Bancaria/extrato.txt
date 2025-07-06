@@ -1,0 +1,11 @@
+{"data_hora": "06/07/2025 00:45:10", "cpf_origem": "12345678901", "tipo": "Depósito", "valor": 1500.0, "cpf_destino": null, "conta_origem": 2, "conta_destino": null}
+{"data_hora": "06/07/2025 00:45:41", "cpf_origem": "12345678901", "tipo": "Transferência Enviada", "valor": 500.0, "cpf_destino": "12332940758", "conta_origem": 2, "conta_destino": 1}
+{"data_hora": "06/07/2025 00:45:41", "cpf_origem": "12332940758", "tipo": "Transferência Recebida", "valor": 500.0, "cpf_destino": null, "conta_origem": 1, "conta_destino": null}
+{"data_hora": "06/07/2025 00:48:44", "cpf_origem": "12332940758", "tipo": "Transferência Enviada", "valor": 250.0, "cpf_destino": "12345678901", "conta_origem": 1, "conta_destino": 2}
+{"data_hora": "06/07/2025 00:48:44", "cpf_origem": "12345678901", "tipo": "Transferência Recebida", "valor": 250.0, "cpf_destino": null, "conta_origem": 2, "conta_destino": null}
+{"data_hora": "06/07/2025 00:50:25", "cpf_origem": "12345678901", "tipo": "Transferência Enviada", "valor": 750.0, "cpf_destino": "12345678902", "conta_origem": 2, "conta_destino": 3}
+{"data_hora": "06/07/2025 00:50:25", "cpf_origem": "12345678902", "tipo": "Transferência Recebida", "valor": 750.0, "cpf_destino": null, "conta_origem": 3, "conta_destino": null}
+{"data_hora": "06/07/2025 00:58:11", "cpf_origem": "12332940758", "tipo": "Transferência Enviada", "valor": 50.0, "cpf_destino": "12332940758", "conta_origem": 1, "conta_destino": 5}
+{"data_hora": "06/07/2025 00:58:11", "cpf_origem": "12332940758", "tipo": "Transferência Recebida", "valor": 50.0, "cpf_destino": null, "conta_origem": 5, "conta_destino": null}
+{"data_hora": "06/07/2025 00:58:20", "cpf_origem": "12332940758", "tipo": "Depósito", "valor": 300.0, "cpf_destino": null, "conta_origem": 1, "conta_destino": null}
+{"data_hora": "06/07/2025 00:58:26", "cpf_origem": "12332940758", "tipo": "Depósito", "valor": 250.0, "cpf_destino": null, "conta_origem": 5, "conta_destino": null}
